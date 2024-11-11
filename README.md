@@ -2,10 +2,10 @@
 
 # Привет! Я начинающий программист
 
-![Гифка](https://media1.tenor.com/m/_EYOsX_1CUkAAAAC/pixel-night.gif)
+![Гифка](https://media1.tenor.com/m/nl7nt5750PIAAAAC/aesthetic.gif)
 
 ## Обо мне
-Я — начинающий программист с более чем годом опыта работы с языком C# на среднем уровне и базовыми знаниями C++. Также имею опыт работы с Python и JavaScript. Знаком с WPF, ASP.NET Core, Entity Framework, SQL, включая Microsoft SQL Server, а также с PostgreSQL и DBeaver. Имею опыт работы с Postman для тестирования API.
+Я — начинающий программист, знаком с языком C# на среднем уровне и базовыми знаниями C++. Также имею опыт работы с Python и JavaScript. Знаком с WPF, ASP.NET Core, Entity Framework, SQL, включая Microsoft SQL Server, а также с PostgreSQL и DBeaver. Имею опыт работы с Postman для тестирования API.
 
 Знаком с принципами объектно-ориентированного программирования (ООП) и основами SOLID.
 
